@@ -11,3 +11,9 @@ This project is created for learning Git and GitHub.
 ## Project status
 
 The project is currently used for Git and GitHub practice.
+
+## Technologies
+
+- Python
+- pytest
+- requests
