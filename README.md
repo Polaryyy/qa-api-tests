@@ -7,3 +7,7 @@ This project is created for learning Git and GitHub.
 - GitHub
 - Branches
 - Pull Requests
+
+## Project status
+
+The project is currently used for Git and GitHub practice.
