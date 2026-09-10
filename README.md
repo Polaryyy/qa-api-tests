@@ -17,3 +17,8 @@ The project is currently used for Git and GitHub practice.
 - Python
 - pytest
 - requests
+
+## Testing
+
+Tests are written using pytest.
+
