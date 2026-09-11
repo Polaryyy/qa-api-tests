@@ -1,4 +1,4 @@
-# Git GitHub Practice
+# Main Branch Project
 
 This project is created for learning Git and GitHub.
 ## What I want to learn
