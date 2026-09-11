@@ -1,4 +1,5 @@
-# Main Branch Project
+# Feature Branch Project
+>>>>>>> feature/conflict-practice
 
 This project is created for learning Git and GitHub.
 ## What I want to learn
@@ -21,4 +22,5 @@ The project is currently used for Git and GitHub practice.
 ## Testing
 
 Tests are written using pytest.
+
 
