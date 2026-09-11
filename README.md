@@ -1,5 +1,4 @@
 # Feature Branch Project
->>>>>>> feature/conflict-practice
 
 This project is created for learning Git and GitHub.
 ## What I want to learn
